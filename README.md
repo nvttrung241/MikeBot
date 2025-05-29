@@ -93,7 +93,7 @@ Training a new LoRA took around 6 hours on my PC, and when completed, will outpu
 
 Tip: You will need to increase/decrease the strength of the LoRA until you are happy with the image results.
 
-# WAN 2.1 (Video)
+## WAN 2.1 (Video)
 
 Now that you can generate new images of your object/person, we require an img-to-video generator that can take the image, as well as a caption, and animate it correctly. We experimented with various different video models, and we found that **WAN 2.1** produced the best results (at the time). 
 
